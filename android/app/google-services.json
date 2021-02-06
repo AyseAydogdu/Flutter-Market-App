@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77082028112",
+    "firebase_url": "https://market-4ea43.firebaseio.com",
+    "project_id": "market-4ea43",
+    "storage_bucket": "market-4ea43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77082028112:android:d69d53b4f3099db7808955",
+        "android_client_info": {
+          "package_name": "com.example.marketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77082028112-bj4m3q1j6mq1gipg6609cj06br5c441s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqStCRgSLNPSlCcIqESgVP1yESLBO2Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77082028112-bj4m3q1j6mq1gipg6609cj06br5c441s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
